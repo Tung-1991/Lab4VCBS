@@ -1,3 +1,5 @@
 tao file ten la File1
-them dong thu 2 vào File1 lần 2
-suw file 1 va tren branch Sit
+<<<<<<< HEAD
+them dong thu 2 vào File1 lần 2 suw file 1 va tren branch Sit
+=======
+>>>>>>> parent of 99228d9 (sửa File 1 lần tiếp theo lần 2)
